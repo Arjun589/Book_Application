@@ -1,1 +1,1 @@
-# CRUD_Operations-using-SpringBoot
+This is Great start for the beginners who just started with learning spring and spring boot, in this project what i basically did is, i created a crud operations using many types of request methods and i used crud repository for the embedded apache derby database.
